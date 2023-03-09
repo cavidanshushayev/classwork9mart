@@ -1,0 +1,54 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0.623);
+    height: 30px;
+}
+
+#a {
+    color: aliceblue;
+    text-decoration: none;
+    padding-right: 400px;
+    margin: center;
+    display: inline-block;
+
+}
+
+#aa {
+    color: aliceblue;
+    text-decoration: none;
+    float: right;
+    display: inline-block;
+}
+
+/* .main_hero {
+    text-align: center;
+}
+
+.main_title {
+    height: 560px;
+    width: 900px;
+    text-align: center;
+    padding: 40px 40px;
+} */
+
+.qw {
+    
+    text-align: center;
+    width: 900px;
+    padding: 20px 500px;
+    
+}
+.qw >img{
+    width: 100%;
+}
+/* .qq {
+     
+    width: 1000px;
+    margin: 8px 0 100px 500px;
+   
+} */
+
